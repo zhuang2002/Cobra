@@ -1,0 +1,19 @@
+-e ./diffusers
+torch==2.5.1
+torchvision==0.20.1
+accelerate==1.5.2
+datasets==3.2.0
+einops==0.8.1
+gradio==5.22.0
+gradio_client==1.8.0
+huggingface-hub==0.30.2
+matplotlib==3.10.1
+numpy==1.26.4
+opencv-python==4.11.0.86
+peft==0.15.0
+Pillow==11.1.0
+safetensors==0.5.3
+sentencepiece==0.2.0
+torchaudio==2.5.1
+tqdm==4.67.1
+transformers==4.48.3

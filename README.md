@@ -6,7 +6,7 @@
 
 <a href='https://zhuang2002.github.io/Cobra/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <a href='https://huggingface.co/spaces/JunhaoZhuang/Cobra'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;
-<a href="https://arxiv.org"><img src="https://img.shields.io/badge/arXiv-****.****-b31b1b.svg"></a> &nbsp;
+<a href="https://arxiv.org/abs/2504.12240"><img src="https://img.shields.io/badge/arXiv-2504.12240-b31b1b.svg"></a> &nbsp;
 <a href="https://huggingface.co/JunhaoZhuang/Cobra"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
 
 **Your star means a lot for us to develop this project!** :star:
@@ -92,14 +92,14 @@ We are grateful for the valuable resources and insights provided by these projec
 ### 📜 Citation
 
 ```
-@misc{zhuang2025cobra,
-title={Cobra: Efficient Line Art COlorization with BRoAder References},
-author={Junhao Zhuang, Lingen Li, Xuan Ju, Zhaoyang Zhang, Chun Yuan† and Ying Shan†},
-year={2025},
-eprint={*****},
-archivePrefix={arXiv},
-primaryClass={cs.CV},
-url={https://arxiv.org/abs/****},
+@misc{zhuang2025cobraefficientlineart,
+      title={Cobra: Efficient Line Art COlorization with BRoAder References}, 
+      author={Junhao Zhuang and Lingen Li and Xuan Ju and Zhaoyang Zhang and Chun Yuan and Ying Shan},
+      year={2025},
+      eprint={2504.12240},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.12240}, 
 }
 ```
 
